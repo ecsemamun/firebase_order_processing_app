@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "531292068500",
+    "project_id": "orderproapp-16665",
+    "storage_bucket": "orderproapp-16665.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531292068500:android:efa2f77291afc9f77d3281",
+        "android_client_info": {
+          "package_name": "com.example.firebase_order_processing_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531292068500-lf0hqilig68i6a6qd1ogvjd7ehtm7eqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwCO3XOh6x5bdKH8XrewQZ0ITddTzTfdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531292068500-lf0hqilig68i6a6qd1ogvjd7ehtm7eqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
